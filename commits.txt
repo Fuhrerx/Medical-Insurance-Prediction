@@ -1,3 +1,5 @@
                                                     version tracker 
 
-first commit (25-11-25) - commit 6774aef8661d6b8e1a99d66602283d6479b715fd (cleaned repo)
+first commit (25-11-25)  -          commit 6774aef8661d6b8e1a99d66602283d6479b715fd (cleaned repo)
+second commit (25-11-25) -          commit e46562a52c2f7078a979276537f23b722f8a153c (tracker added)
+third commit ()          -
