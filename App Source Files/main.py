@@ -2,6 +2,7 @@ import tkinter as tk
 from tkinter import *
 import Insurance as ins
 import time
+from currency_converter import CurrencyConverter as c
 
 root = tk.Tk()
 
@@ -9,8 +10,8 @@ root.title("Medical Insurance Predictor")
 
 label_sub = Label(root, text='Predict Your Medical Insurance')
 label_fields = Label(root, text= 'Enter the given fields')
-label_age = Label(root, text='Enter the age of the patient : ')
-label_bmi = Label(root, text='Enter the BMI of the patient : ')
+label_age = Label(root, text='Enter the age of the patient :      $')
+label_bmi = Label(root, text='Enter the BMI of the patient :      $')
 
 label_sub.grid(row=0, column=1)
 label_fields.grid(row=1, column=1)
